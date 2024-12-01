@@ -4,6 +4,9 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=700&height=100&lines=aspiring+Back-End+developer..&hearts;++;Estudiante+de+Ingeniería+en+informática.<3"></a>
 </p>
+
+<h2 align="left"> <b>Sobre mi :seedling:</b>
+</h2>
 <p align="left">
   <a href="https://skillicons.dev" target="_blank"> 
     <img src="https://skillicons.dev/icons?i=cs,dotnet,sqlite,visualstudio,git" />
