@@ -10,7 +10,7 @@
 <p>
   :new_moon: I'm currently a Computer Engineering student at the Arturo Jauretche National University.  
   <br>
-  :new_moon: I’m currently learning .NET, ASP.NET and COBOL Mainframe
+  :new_moon: Currently expanding my knowledge in .NET, ASP.NET, and COBOL Mainframe
   <br>
   :new_moon: Future Goals: Learn more about ASP.NET CORE technology, for back-end services
    
