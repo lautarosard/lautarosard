@@ -20,7 +20,7 @@
 <p align="left">
   <a href="https://skillicons.dev" target="_blank"> 
     <img src="https://skillicons.dev/icons?i=cs,dotnet,sqlite,visualstudio,git" />
-    <img src="https://img.shields.io/badge/COBOL-blue" />
+    <img src="https://img.shields.io/badge/COBOL-blue" /> <img src="https://img.shields.io/badge/JCL-yellow" />
   </a>
 </p>
 
