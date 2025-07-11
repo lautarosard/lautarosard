@@ -18,7 +18,8 @@
 <h2 align="left"> <b>Tecnologías y herramientas</b>
 </h2>
 <p align="left">
-  <a href="https://skillicons.dev" target="_blank"> 
+  <a href="https://skillicons.dev" target="_blank">
+    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
     <img src="https://skillicons.dev/icons?i=cs,dotnet,sqlite,visualstudio,git" />
     <img src="https://img.shields.io/badge/COBOL-blue" /> <img src="https://img.shields.io/badge/JCL-yellow" />
   </a>
