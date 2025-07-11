@@ -14,27 +14,41 @@
   <br>
   :new_moon: Future Goals: Learn more about ASP.NET CORE technology, for back-end services
    
-</p>
-<h2 align="left"> <b>My Skills</b>
-</h2>
+<h2 align="left"> <b>My Skills</b></h2>
+
+<h3>Languages</h3>
 <p align="left">
-  
-  <a href="https://skillicons.dev" target="_blank">
-    <!--Bandas -->
-    <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
-    <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-    <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-    <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
-    
-    <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>
- 
-  </a>
+  <img src="https://img.shields.io/badge/%23-purple?style=for-the-badge&logo=c" style="display:inline;"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="display:inline;"/>
+  <img src="https://img.shields.io/badge/CSS-%20%2380CFEC%20?style=for-the-badge&logo=css&logoColor=purple&logoSize=auto&labelColor=%2380CFEC" style="display:inline;"/>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="display:inline;"/>
 </p>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<h3>Framework</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" style="display:inline;"/>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" style="display:inline;"/>
+</p>
 
+<h3>Databases</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/MySql-%233E6E93?style=for-the-badge&logo=mysql&logoColor=orange&logoSize=auto&labelColor=%233E6E93" style="display:inline;"/>
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" style="display:inline;"/>
+  <img src="https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white" style="display:inline;"/>
+</p>
 
+<h3>Tools, Platforms and Libraries</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="display:inline;"/>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" style="display:inline;"/>
+  <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" style="display:inline;"/>
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" style="display:inline;"/>
+</p>
+
+<h2 align="left"> <b>Contact me</b></h2>
+<p align="left">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</p>
 <!--**lautarosard/lautarosard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. /-->
 
 
