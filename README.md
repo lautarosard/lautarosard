@@ -15,13 +15,20 @@
   :new_moon: Future Goals: Learn more about ASP.NET CORE technology, for back-end services
    
 </p>
-<h2 align="left"> <b>Tecnologías y herramientas</b>
+<h2 align="left"> <b>My Skills</b>
 </h2>
 <p align="left">
+  
   <a href="https://skillicons.dev" target="_blank">
-    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,sqlite,visualstudio,git" />
-    <img src="https://img.shields.io/badge/COBOL-blue" /> <img src="https://img.shields.io/badge/JCL-yellow" />
+    <!--Bandas -->
+    <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
+    <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+    <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+    <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
+    
+    <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>
+ 
   </a>
 </p>
 
