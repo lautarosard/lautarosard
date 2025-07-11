@@ -45,9 +45,14 @@
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" style="display:inline;"/>
 </p>
 
-<h2 align="left"> <b>Contact me</b></h2>
+<h2 align="left"> <b>📫 Contact Me</b></h2>
 <p align="left">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="mailto:lautarosardina@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="display:inline;"/>
+  </a>
+  <a href="www.linkedin.com/in/ariel-lautaro-sardina" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="display:inline;"/>
+  </a>
 </p>
 <!--**lautarosard/lautarosard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. /-->
 
