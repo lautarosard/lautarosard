@@ -14,7 +14,7 @@
   <br>
   :new_moon: Future Goals: Learn more about ASP.NET CORE technology, for back-end services
    
-<h2 align="left"> <b>My Skills</b></h2>
+<h2 align="left"> <b>My Skills 📚</b></h2>
 
 <h3>Languages</h3>
 <p align="left">
@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" style="display:inline;"/>
 </p>
 
-<h2 align="left"> <b>📫 Contact Me</b></h2>
+<h2 align="left"> <b>Contact Me 📫</b></h2>
 <p align="left">
   <a href="mailto:lautarosardina@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="display:inline;"/>
