@@ -8,7 +8,7 @@
     </a>
   </p>
 
-  <a href="https://tu-portfolio-en-vercel.app/">
+  <a href="https://portfolio-lautaro-sardina.vercel.app/">
     <img src="https://img.shields.io/badge/VISITA%20MI%20PORTFOLIO-b54640?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 
@@ -42,6 +42,7 @@ Actualmente, no solo estudio, sino que construyo soluciones complejas utilizando
 <br>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Expressjs-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 
