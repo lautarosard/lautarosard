@@ -30,7 +30,7 @@ Actualmente, no solo estudio, sino que construyo soluciones complejas utilizando
 | **Gestión de Filas High-Concurrency** | **Plataforma Social Distribuida (Microservicios)** |
 | Sistema para eventos masivos que elimina filas físicas. Utiliza **Redis** para contadores atómicos (evitando Race Conditions) y **WebSockets** para tiempo real. | Red social basada en .NET 8 que integra Spotify e IA. Arquitectura desacoplada con **RabbitMQ** para procesamiento asíncrono y **Google Cloud**. |
 | 🛠️ *Node.js, Redis, WebSockets, React* | 🛠️ *.NET 8, RabbitMQ, Microservices, SQL* |
-| [🔗 Ver Código](https://github.com/lautarosard/puerta-espera) | [🔗 Ver Código](https://github.com/lautarosard/SoundList) |
+| [🔗 Ver Código](https://github.com/lautarosard/puerta-espera) | [🔗 Ver Código](https://github.com/SoundList) |
 
 ---
 
